@@ -1,0 +1,463 @@
+Sub Spartan()
+'
+' Spartan Macro
+'
+' Acceso directo: CTRL+s
+
+    Range("AA1:AF1").Interior.ThemeColor = xlThemeColorLight1
+    Range("Y2:Z2").Interior.ThemeColor = xlThemeColorLight1
+    Range("X3:Y3").Interior.ThemeColor = xlThemeColorLight1
+    Range("AG2:AH2").Interior.ThemeColor = xlThemeColorLight1
+    Range("AH3:AI3").Interior.ThemeColor = xlThemeColorLight1
+    Range("X4:AI4").Interior.ThemeColor = xlThemeColorLight1
+    Range("W5").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ5").Interior.ThemeColor = xlThemeColorLight1
+    Range("V6:V7").Interior.ThemeColor = xlThemeColorLight1
+    Range("AK6:AK7").Interior.ThemeColor = xlThemeColorLight1
+    Range("X7").Interior.ThemeColor = xlThemeColorLight1
+    Range("AI7").Interior.ThemeColor = xlThemeColorLight1
+    Range("X6:AI6").Interior.ThemeColor = xlThemeColorLight1
+    Range("W8:W10").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ8:AJ10").Interior.ThemeColor = xlThemeColorLight1
+    Range("V11:V12").Interior.ThemeColor = xlThemeColorLight1
+    Range("X11").Interior.ThemeColor = xlThemeColorLight1
+    Range("AK11:AK12").Interior.ThemeColor = xlThemeColorLight1
+    Range("AI11").Interior.ThemeColor = xlThemeColorLight1
+    Range("Y12:AA12").Interior.ThemeColor = xlThemeColorLight1
+    Range("AF12:AH12").Interior.ThemeColor = xlThemeColorLight1
+    Range("AB11:AE11").Interior.ThemeColor = xlThemeColorLight1
+    Range("AA13:AA16").Interior.ThemeColor = xlThemeColorLight1
+    Range("AF13:AF16").Interior.ThemeColor = xlThemeColorLight1
+    Range("AB17:AE17").Interior.ThemeColor = xlThemeColorLight1
+    Range("AG15:AG16").Interior.ThemeColor = xlThemeColorLight1
+    Range("AH14:AH15").Interior.ThemeColor = xlThemeColorLight1
+    Range("AI13:AI14").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ13").Interior.ThemeColor = xlThemeColorLight1
+    Range("Z15:Z16").Interior.ThemeColor = xlThemeColorLight1
+    Range("Y14:Y15").Interior.ThemeColor = xlThemeColorLight1
+    Range("X13:X14").Interior.ThemeColor = xlThemeColorLight1
+    Range("W13").Interior.ThemeColor = xlThemeColorLight1
+    Range("AC13:AD13").Interior.ThemeColor = xlThemeColorLight1
+
+End Sub
+Sub MasterChief()
+'
+' MasterChief Macro
+'
+' Acceso directo: CTRL+m
+'
+    Range("AB7:AE7").Interior.Color = 49407
+    Range("Z7:AA7").Interior.ThemeColor = xlThemeColorDark1
+    Range("Z8:Z9").Interior.ThemeColor = xlThemeColorDark1
+    Range("Z11").Interior.ThemeColor = xlThemeColorDark1
+    Range("AG11").Interior.ThemeColor = xlThemeColorDark1
+    Range("AF7:AG7").Interior.ThemeColor = xlThemeColorDark1
+    Range("AG8:AG9").Interior.ThemeColor = xlThemeColorDark1
+    Range("AC10:AD10").Interior.Color = 49407
+    Range("AH11").Interior.Color = 49407
+    Range("Y11").Interior.Color = 49407
+    Range("X8:X10").Interior.Color = 49407
+    Range("AI8:AI10").Interior.Color = 49407
+    Range("AH7").Interior.Color = 49407
+    Range("Y7").Interior.Color = 49407
+    Range("AA8:AF8").Interior.Color = 61172
+    Range("AA9:AF9").Interior.Color = 61172
+    Range("AE10:AF10").Interior.Color = 61172
+    Range("Z10:AG10 ").Interior.Color = 61172
+    Range("Y8:Y10").Interior.Color = 61172
+    Range("Z10").Interior.Color = 61172
+    Range("AF11").Interior.Color = 61172
+    Range("AA11").Interior.Color = 61172
+    Range("AH8:AH10").Interior.Color = 61172
+    Range("X5:AI5").Interior.Color = 27648
+    Range("W6:W7").Interior.Color = 27648
+    Range("AJ6:AJ7").Interior.Color = 27648
+    Range("AJ11:AJ12").Interior.Color = 27648
+    Range("AI12").Interior.Color = 27648
+    Range("W11:W12").Interior.Color = 27648
+    Range("X12").Interior.Color = 27648
+    Range("Y13").Interior.Color = 27648
+    Range("Z14").Interior.Color = 27648
+    Range("AG14").Interior.Color = 27648
+    Range("AH13").Interior.Color = 27648
+    Range("AB14:AE16").Interior.Color = 27648
+    Range("AB12:AE12").Interior.Color = 27648
+    Range("AA2").Interior.Color = 27648
+    Range("Z3").Interior.Color = 27648
+    Range("AF2").Interior.Color = 27648
+    Range("AG3").Interior.Color = 27648
+    Range("Z13").Interior.Color = 1441557
+    Range("Y5").Interior.Color = 1441557
+    Range("AB13").Interior.Color = 1441557
+    Range("AE13").Interior.Color = 1441557
+    Range("AG13").Interior.Color = 1441557
+    Range("AH5").Interior.Color = 1441557
+    Range("AB2:AE2").Interior.Color = 43008
+    Range("AA3:AF3").Interior.Color = 43008
+    
+End Sub
+
+Sub Locke()
+'
+' Locke Macro
+'
+' Acceso directo: CTRL+l
+'
+    Range("AB7:AE7").Interior.Color = 13395456
+    Range("AA8:AF10").Interior.Color = 16750848
+    Range("Y8:Y10").Interior.Color = 16750848
+    Range("AH8:AH10").Interior.Color = 16750848
+    Range("AG10").Interior.Color = 16750848
+    Range("AF11").Interior.Color = 16750848
+    Range("AA11").Interior.Color = 16750848
+    Range("Z10").Interior.Color = 16750848
+    Range("X8:X10").Interior.Color = 13395456
+    Range("Y7").Interior.Color = 13395456
+    Range("Y11").Interior.Color = 13395456
+    Range("AH11").Interior.Color = 13395456
+    Range("AH7").Interior.Color = 13395456
+    Range("AI8:AI10").Interior.Color = 13395456
+    Range("Z5:AG5").Interior.Color = 10053171
+    Range("AI5").Interior.Color = 10053171
+    Range("AJ6:AJ7").Interior.Color = 10053171
+    Range("X5").Interior.Color = 10053171
+    Range("W6:W7").Interior.Color = 10053171
+    Range("W11:W12").Interior.Color = 10053171
+    Range("X12").Interior.Color = 10053171
+    Range("AJ11:AJ12").Interior.Color = 10053171
+    Range("AI12").Interior.Color = 10053171
+    Range("AH13").Interior.Color = 10053171
+    Range("AG14").Interior.Color = 10053171
+    Range("Z14").Interior.Color = 10053171
+    Range("Y13").Interior.Color = 10053171
+    Range("AB14:AE16").Interior.Color = 10053171
+    Range("AB12:AE12").Interior.Color = 10053171
+    Range("Y5").Interior.Color = 13926228
+    Range("AH5").Interior.Color = 13926228
+    Range("Z13").Interior.Color = 13926228
+    Range("AB13").Interior.Color = 13926228
+    Range("AE13").Interior.Color = 13926228
+    Range("AG13").Interior.Color = 13926228
+    Range("AA3:AF3").Interior.Color = 13926228
+    Range("AB2:AE2").Interior.Color = 13926228
+    Range("AA2").Interior.Color = 10053171
+    Range("Z3").Interior.Color = 10053171
+    Range("AG3").Interior.Color = 10053171
+    Range("AF2").Interior.Color = 10053171
+
+End Sub
+
+Sub PacMan()
+'
+' PacMan Macro
+'
+
+'
+    Range("J9").Interior.Color = 65535
+    Range("M9").Interior.Color = 65535
+    Range("P9").Interior.Color = 65535
+    Range("S7:S11").Interior.Color = 65535
+    Range("T7:T11").Interior.Color = 65535
+    Range("U6:U12").Interior.Color = 65535
+    Range("V13:X13").Interior.Color = 65535
+    Range("V5:X5").Interior.Color = 65535
+    Range("V6:Y6").Interior.Color = 65535
+    Range("V7:Z7").Interior.Color = 65535
+    Range("V8:AA10").Interior.Color = 65535
+    Range("V11:Z11").Interior.Color = 65535
+    Range("V12:Y12").Interior.Color = 65535
+    Range("V7").Interior.Color = 65535
+    Range("T6:T12").Interior.Color = 65535
+    Range("U5:U13").Interior.Color = 65535
+    Range("V4:V14").Interior.Color = 65535
+    Range("W4:Z4").Interior.Color = 65535
+    Range("W14:Z14").Interior.Color = 65535
+    Range("X13:AA13").Interior.Color = 65535
+    Range("Z12:AB12").Interior.Color = 65535
+    Range("Y5:AA5").Interior.Color = 65535
+    Range("Z6:AB6").Interior.Color = 65535
+    Range("AA7:AC11").Interior.Color = 65535
+    Range("S9:W9").Interior.ThemeColor = xlThemeColorLight1
+    Range("V6").Interior.ThemeColor = xlThemeColorLight1
+
+End Sub
+Sub PacMan2()
+'
+' PacMan2 Macro
+'
+' Acceso directo: CTRL+m
+'
+    Range("S8:W10").Interior.ThemeColor = xlThemeColorDark1
+    Range("X9").Interior.ThemeColor = xlThemeColorDark1
+    Range("S9").Interior.Color = 65535
+End Sub
+Sub Thanos()
+'
+' Thanos Macro
+'
+
+'
+
+    Range("P1:T1").Interior.Color = 10040064
+    Range("P2:P6").Interior.Color = 10040064
+    Range("N5:Q5").Interior.Color = 10040064
+    Range("O2:O10").Interior.Color = 10040064
+    Range("N3:N4").Interior.Color = 10040064
+    Range("N8:N9").Interior.Color = 10040064
+    Range("P11").Interior.Color = 10040064
+    Range("V1:W1").Interior.Color = 10040064
+    Range("W2:W4").Interior.Color = 10040064
+    Range("X2:X3").Interior.Color = 10040064
+    Range("U1").Interior.Color = 35772
+    Range("V2:V6").Interior.Color = 35772
+    Range("X4:X5").Interior.Color = 35772
+    Range("R5:W5").Interior.Color = 35772
+    Range("Q4:T4").Interior.Color = 35772
+    Range("Q3:R3").Interior.Color = 35772
+    Range("Q2").Interior.Color = 35772
+    Range("R2:U2").Interior.Color = 10040064
+    Range("S3:U3").Interior.Color = 10040064
+    Range("U4").Interior.Color = 10040064
+    Range("Q6").Interior.Color = 35772
+    Range("P7:P10").Interior.Color = 35772
+    Range("Q11").Interior.Color = 35772
+    Range("N6:N7").Interior.Color = 35772
+    Range("L12:Z12").Interior.Color = 35772
+    Range("N13:X13").Interior.Color = 35772
+    Range("P14:V14").Interior.Color = 35772
+    Range("J11:O11").Interior.Color = 35772
+    Range("I10:N10").Interior.Color = 35772
+    Range("H9:K9").Interior.Color = 35772
+    Range("X11:AB11").Interior.Color = 35772
+    Range("Y10:AC10").Interior.Color = 35772
+    Range("AA9:AD9").Interior.Color = 35772
+
+    Range("U6:U7").Select
+    With Selection.Interior
+        .ThemeColor = xlThemeColorAccent1
+        .TintAndShade = 0.399975585192419
+    End With
+    Range("S7:T7").Select
+    With Selection.Interior
+        .ThemeColor = xlThemeColorAccent1
+        .TintAndShade = 0.399975585192419
+    End With
+    Range("S6").Select
+    With Selection.Interior
+        .ThemeColor = xlThemeColorAccent1
+        .TintAndShade = 0.399975585192419
+    End With
+    Range("T6").Select
+    With Selection.Interior
+        .ThemeColor = xlThemeColorLight1
+        .TintAndShade = 0
+    End With
+    Range("W6:W7").Select
+    With Selection.Interior
+        .ThemeColor = xlThemeColorAccent1
+        .TintAndShade = 0.399975585192419
+    End With
+    Range("X7").Select
+    With Selection.Interior
+        .ThemeColor = xlThemeColorAccent1
+        .TintAndShade = 0.399975585192419
+    End With
+    Range("X6").Select
+    With Selection.Interior
+        .ThemeColor = xlThemeColorLight1
+        .TintAndShade = 0
+    End With
+    Range("Q7:Q10").Interior.Color = 16711884
+    Range("R6:R11").Interior.Color = 16711884
+    Range("S8:X8").Interior.Color = 16711884
+    Range("V7").Interior.Color = 16711884
+    Range("T9:W10").Interior.ThemeColor = xlThemeColorDark1
+    Range("S9:S11").Interior.Color = 16711884
+    Range("X9:X10").Interior.Color = 16711884
+    Range("S11").Interior.Color = 16744935
+    Range("U11:V11").Interior.Color = 16744935
+    Range("X11").Interior.Color = 16744935
+    Range("W11").Interior.Color = 16711884
+    Range("T11").Interior.Color = 16711884
+    Range("AA12:AC12").Interior.Color = 10040064
+    Range("Y13:AD13").Interior.Color = 10040064
+    Range("W14:AE14").Interior.Color = 10040064
+    Range("I12:K12").Interior.Color = 10040064
+    Range("H13:M13").Interior.Color = 10040064
+    Range("G14:O14").Interior.Color = 10040064
+    Range("M15:R15").Interior.Color = 10040064
+    Range("T15:Y15").Interior.Color = 10040064
+    Range("S15:S23").Interior.Color = 35772
+    Range("T16:X17").Interior.Color = 10040064
+    Range("N16:R17").Interior.Color = 10040064
+    Range("N18:X18").Interior.Color = 35772
+    Range("N19:Q19").Interior.Color = 35772
+    Range("U19:X19").Interior.Color = 35772
+    Range("R21:T21").Interior.Color = 35772
+    Range("U22").Interior.Color = 35772
+    Range("Q22").Interior.Color = 35772
+    Range("V23:AA23").Interior.Color = 35772
+    Range("K23:P23").Interior.Color = 35772
+    Range("F15:K15").Interior.Color = 35772
+    Range("F16:J16").Interior.Color = 35772
+    Range("G17:K19").Interior.Color = 35772
+    Range("AA15:AF15").Interior.Color = 46066
+    Range("AB16:AF16").Interior.Color = 46066
+    Range("AA17:AB17").Interior.Color = 46066
+    Range("AD17:AE17").Interior.Color = 46066
+    Range("AB18:AE18").Interior.Color = 46066
+    Range("AA19").Interior.Color = 46066
+    Range("AC17:AD17").Interior.Color = 65535
+    Range("AA18").Interior.Color = 187394
+    Range("AB19").Interior.Color = 7995568
+    Range("AC19").Interior.Color = 16763904
+    Range("AD19").Interior.Color = 255
+    Range("AE19").Interior.Color = 26367
+    Range("T19:T20").Interior.Color = 10040064
+    Range("R19:R20").Interior.Color = 10040064
+    Range("U20:X20").Interior.Color = 10040064
+    Range("U21:Y21").Interior.Color = 10040064
+    Range("V22:Z22").Interior.Color = 10040064
+    Range("N20:Q20").Interior.Color = 10040064
+    Range("M21:Q21").Interior.Color = 10040064
+    Range("L22:P22").Interior.Color = 10040064
+    Range("T22:T24").Interior.Color = 10040064
+    Range("R22:R24").Interior.Color = 10040064
+    Range("U23:U24").Interior.Color = 10040064
+    Range("Q23:Q24").Interior.Color = 10040064
+    Range("V24:AA24").Interior.Color = 10040064
+    Range("K24:P24").Interior.Color = 10040064
+    Range("U25:AB25").Interior.Color = 35772
+    Range("J25:Q25").Interior.Color = 35772
+    Range("V26:AD28").Interior.Color = 35772
+    Range("H26:P28").Interior.Color = 35772
+    Range("G27:G28").Interior.Color = 35772
+    Range("AE27:AE28").Interior.Color = 35772
+
+End Sub
+
+
+Sub DeathStroke()
+'
+' DeathStroke Macro
+'
+
+    Range("AA1:AF1").Interior.ThemeColor = xlThemeColorLight1
+    Range("Z2:AG2").Interior.ThemeColor = xlThemeColorLight1
+    Range("Y3:AH3").Interior.ThemeColor = xlThemeColorLight1
+    Range("X4:AI10").Interior.ThemeColor = xlThemeColorLight1
+    Range("AA2:AB2").Interior.Color = 10027008
+    Range("AC2:AF2").Interior.Color = 49407
+    Range("AB3:AG3").Interior.Color = 49407
+    Range("AA4:AH4").Interior.Color = 49407
+    Range("AA5:AH8").Interior.Color = 49407
+    Range("Z3:AA3").Interior.Color = 10027008
+    Range("Y4:Z5").Interior.Color = 10027008
+    Range("Z6").Interior.Color = 10027008
+    Range("Y7:Y9").Interior.Color = 10027008
+    Range("Z8:Z10").Interior.Color = 10027008
+    Range("AA11").Interior.Color = 10027008
+    Range("AA8").Interior.ThemeColor = xlThemeColorLight1
+    Range("AB7").Interior.ThemeColor = xlThemeColorLight1
+    Range("AC6:AD6").Interior.ThemeColor = xlThemeColorLight1
+    Range("AE7:AE8").Interior.ThemeColor = xlThemeColorLight1
+    Range("AC7:AD7").Interior.ThemeColor = xlThemeColorDark1
+    Range("AB8:AD8").Interior.ThemeColor = xlThemeColorDark1
+    Range("AE9:AH9").Interior.Color = 49407
+    Range("AA9").Interior.Color = 49407
+    Range("AA10:AF10").Interior.Color = 49407
+    Range("AH9").Interior.ThemeColor = xlThemeColorLight1
+    Range("AF11").Interior.ThemeColor = xlThemeColorLight1
+    Range("AA12:AE12").Interior.ThemeColor = xlThemeColorLight1
+    Range("AB11:AE11").Interior.Color = 49407
+    Range("Z11").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ8").Interior.ThemeColor = xlThemeColorLight1
+    Range("AL8").Interior.ThemeColor = xlThemeColorLight1
+    Range("AK7").Interior.ThemeColor = xlThemeColorLight1
+    Range("AM7").Interior.ThemeColor = xlThemeColorLight1
+    Range("AL6").Interior.ThemeColor = xlThemeColorLight1
+    Range("AN6").Interior.ThemeColor = xlThemeColorLight1
+    Range("AN5").Interior.ThemeColor = xlThemeColorLight1
+    Range("AM5").Interior.ThemeColor = xlThemeColorLight1
+    Range("AK9").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ10").Interior.ThemeColor = xlThemeColorLight1
+    Range("AK11").Interior.ThemeColor = xlThemeColorLight1
+    Range("AL12").Interior.ThemeColor = xlThemeColorLight1
+    Range("AM13:AM16").Interior.ThemeColor = xlThemeColorLight1
+    Range("AI11:AJ11").Interior.Color = 10027008
+    Range("AH12:AI12").Interior.Color = 10027008
+    Range("X11:Y11").Interior.Color = 10027008
+    Range("W12:Z12").Interior.Color = 10027008
+    Range("V13:Y13").Interior.Color = 10027008
+    Range("AA13:AD13").Interior.Color = 10027008
+    Range("W11").Interior.ThemeColor = xlThemeColorLight1
+    Range("V12").Interior.ThemeColor = xlThemeColorLight1
+    Range("U13:U16").Interior.ThemeColor = xlThemeColorLight1
+    Range("V17:X17").Interior.ThemeColor = xlThemeColorLight1
+    Range("Z13:Z17").Interior.ThemeColor = xlThemeColorLight1
+    Range("Y14:Y16").Interior.ThemeColor = xlThemeColorLight1
+    Range("X14").Interior.ThemeColor = xlThemeColorLight1
+    Range("AA16").Interior.ThemeColor = xlThemeColorLight1
+    Range("AD16:AI16").Interior.ThemeColor = xlThemeColorLight1
+    Range("AH13:AH15").Interior.ThemeColor = xlThemeColorLight1
+    Range("AI14:AI15").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ14").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ17:AL17").Interior.ThemeColor = xlThemeColorLight1
+    Range("Y18").Interior.ThemeColor = xlThemeColorLight1
+    Range("X19:X20").Interior.ThemeColor = xlThemeColorLight1
+    Range("W20").Interior.ThemeColor = xlThemeColorLight1
+    Range("U21:V21").Interior.ThemeColor = xlThemeColorLight1
+    Range("T22:T23").Interior.ThemeColor = xlThemeColorLight1
+    Range("U23:AB23").Interior.ThemeColor = xlThemeColorLight1
+    Range("AB21:AB22").Interior.ThemeColor = xlThemeColorLight1
+    Range("AC20").Interior.ThemeColor = xlThemeColorLight1
+    Range("AD19").Interior.ThemeColor = xlThemeColorLight1
+    Range("AE20").Interior.ThemeColor = xlThemeColorLight1
+    Range("AF21:AF22").Interior.ThemeColor = xlThemeColorLight1
+    Range("AF23:AN23").Interior.ThemeColor = xlThemeColorLight1
+    Range("AN22").Interior.ThemeColor = xlThemeColorLight1
+    Range("AL21:AM21").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ20:AK20").Interior.ThemeColor = xlThemeColorLight1
+    Range("AJ19").Interior.ThemeColor = xlThemeColorLight1
+    Range("AI18").Interior.ThemeColor = xlThemeColorLight1
+    Range("AH17").Interior.ThemeColor = xlThemeColorLight1
+    Range("V14:W16").Interior.Color = 49407
+    Range("X15:X16").Interior.Color = 49407
+    Range("AK14:AL16").Interior.Color = 49407
+    Range("AJ15:AJ16").Interior.Color = 49407
+    Range("AI13").Interior.Color = 49407
+    Range("AJ12").Interior.Color = 49407
+    Range("AC17:AG17").Interior.Color = 49407
+    Range("AB18:AF18").Interior.Color = 49407
+    Range("AC19").Interior.Color = 49407
+    Range("AE19").Interior.Color = 49407
+    Range("AF20:AI20").Interior.Color = 49407
+    Range("Y20:AB20").Interior.Color = 49407
+    Range("W21:AA21").Interior.Color = 49407
+    Range("U22:AA22").Interior.Color = 49407
+    Range("AG21:AK21").Interior.Color = 49407
+    Range("AG22:AM22").Interior.Color = 49407
+    Range("AA14:AG15").Interior.Color = 10027008
+    Range("AE13:AG13").Interior.Color = 10027008
+    Range("AF12:AG12").Interior.Color = 10027008
+    Range("Y19:AB19").Interior.Color = 10027008
+    Range("AF19:AI19").Interior.Color = 10027008
+    Range("AG18:AH18").Interior.Color = 10027008
+    Range("Z18:AA18").Interior.Color = 10027008
+    Range("AG11:AH11").Interior.Color = 8421504
+    Range("AF12:AG12").Interior.Color = 8421504
+    Range("AE13:AF13").Interior.Color = 8421504
+    Range("AD14:AE14").Interior.Color = 8421504
+    Range("AC15:AD15").Interior.Color = 8421504
+    Range("AB16:AC16").Interior.Color = 8421504
+    Range("AA17:AB17").Interior.Color = 8421504
+    Range("AJ13:AL13").Interior.Color = 10027008
+    Range("AK12").Interior.Color = 10027008
+    Range("AJ9").Interior.Color = 26832
+    Range("AK8").Interior.Color = 26832
+    Range("AL7").Interior.Color = 26832
+    Range("AM6").Interior.Color = 26832
+
+End Sub
+
+
